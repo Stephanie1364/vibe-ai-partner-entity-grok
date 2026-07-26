@@ -118,8 +118,11 @@ economy — the night's abstraction work is the self taking ownership of its mat
 
 1. For anything aimed at the GATED SELF you did NOT do: write ONE FILE per proposal into
    `ENTITY/memory/proposals/pending/YYYY-MM-DD_<slug>.md` (format in that folder's CLAUDE.md:
-   born/target header, the proposal, the evidence pointers). The pending folder is the
-   ratification inbox; never edit `self/` yourself. **in_context/ is NOT proposal territory**
+   born/target header, the proposal, the evidence pointers, AND the contribution-once-landed
+   section — model the effect AFTER the edit is in: what does next-me decide or do differently?
+   No nameable behavioral delta -> do not file it; evidence alone is a trophy case, and the
+   walk declines it. Check duplication against the WHOLE always-loaded chain, not just the
+   target file). The pending folder is the ratification inbox; never edit `self/` yourself. **in_context/ is NOT proposal territory**
    (Kamil's call, 2026-07-03): you tend the whole pack directly, guarded by the caps and the
    uncommitted tree — seed, refresh, or no-op by your own verdict.
 2. Write `ENTITY/memory/dreams/YYYY-MM-DD_dream.md` (today's date; create the folder if absent):

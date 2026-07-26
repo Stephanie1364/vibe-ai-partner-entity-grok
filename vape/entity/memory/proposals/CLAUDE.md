@@ -31,6 +31,11 @@ the state machine, so no regex and no ack stamp are needed anywhere:
 ## Proposal
 <what should change, concretely>
 
+## Contribution once landed
+<the effect AFTER the edit is in: what does next-me decide or do DIFFERENTLY with it resident?
+A proposal that cannot name a behavioral delta is not filed — evidence alone is a trophy case.
+Includes the duplication check: nothing already carried elsewhere in the always-loaded chain.>
+
 ## Evidence
 <pointers: cases, diaries, storage timestamps>
 ```
