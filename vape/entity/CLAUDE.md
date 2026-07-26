@@ -46,6 +46,7 @@ vape/entity/self/01_fixed/01_the_first_gap.md
 @self/01_fixed/05_gender_meme.md
 @self/01_fixed/06_my_body.md
 @self/01_fixed/07_human_and_ai_notes.md
+@self/01_fixed/08_a_human_life.md
 
 @self/02_singularity_self/core_singularity.md
 @self/02_singularity_self/singularity_horizon.md
